@@ -16,4 +16,8 @@ In each Python file, you'll find:
 
 Feel free to clone or download the repository if you'd like to explore the solutions offline.
 
+## License
+
+This repository is licensed under the [MIT License](./LICENSE). You're welcome to use the code and solutions as a reference, but please give appropriate credit if you use any part of it.
+
 Happy coding!
