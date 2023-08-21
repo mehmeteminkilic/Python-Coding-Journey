@@ -1,4 +1,4 @@
-# Python-Coding-Journey-
+# Python-Coding-Journey
 Python Coding Journey: 20 Solved Challenges with Explanations
 
 Welcome to the Python Coding Journey repository! Here, you'll find solutions to a variety of Python coding questions that I've solved. Each solution comes with an explanation of the thought process, approach, and code itself.
